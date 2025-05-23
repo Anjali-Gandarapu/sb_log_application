@@ -20,6 +20,7 @@ String name= "anjali gandarapu";
 int k =90;
 
 int z = 120;
+double d =789;
 
 
 }
