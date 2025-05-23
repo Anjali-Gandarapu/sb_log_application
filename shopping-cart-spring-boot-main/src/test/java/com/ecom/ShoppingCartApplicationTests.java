@@ -9,5 +9,6 @@ class ShoppingCartApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+int i =10;
 
 }
