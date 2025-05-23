@@ -16,5 +16,7 @@ int j =20;
 
 String name= "anjali gandarapu";
 
+int k =90;
+
 
 }
